@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+<head>
+  <meta charset="UTF-8">
+  <title>회사정보 영역 마크업</title>
+</head>
+<body>
+	<footer>
+		<div class ="logo-coinone">
+			<img src="" alt="logo-coinone">
+		</div>
+		<address>
+			<strong>(주)코인원</strong>
+			<span>ㅣ</span>
+			대표 차명훈
+			<span>ㅣ</span> <a href="" target="_blank">
+			사업자등록번호 261-81-07437 </a>
+			<span>ㅣ</span>
+			통신판매업신고 2016-서울영등포-1289호
+		</address>
+		<address>
+			<strong>코인원 블록스 여의도지점</strong>
+			<span>ㅣ</span>
+			서울특별시 영등포구 여의도동 국제금융로2길 37 에스트레뉴 3층
+			<small>
+				코인원 블록스 운영시간 평일 10:00 ~ 17:30 (UTC+09)
+			</small>
+		</address>
+		<address>
+			<strong><u>온라인 고객센터</u></strong> 
+			<a href="https://support.coinone.co.kr" target="_blank">https://support.coinone.co.kr</a>
+			<span>ㅣ</span>
+			<strong>전화 
+				<u><a href="tel:+8216709756">1670-9756</a></u>
+			</strong>
+			<small>응답시간 10:00~19:00 (UTC+09)</small><br>
+			<small>방문 상담은 <strong><u>코인원 블록스 여의도지점</u></strong>을 이용해 주시기 바랍니다.</small>
+		</address>
+		<address>
+			<strong>공식 이메일</strong>
+			<u><a href="info@coinone.co.kr">info@coinone.co.kr</a></u>
+			(고객상담/마케팅/제퓨/상장 외 연락)
+		</address>
+		<div>
+			<a href="" target="_blank">
+				<strong>마케팅/제휴문의</strong>
+				<span>ㅣ</span>
+				<strong>암호화폐 상장 문의</strong>
+			</a>
+		</div>
+		<div>
+			<img src="" alt="bitgo_NH_comodosecure">
+		</div>
+		<small>Copyright&copy;2017 Coinone Inc. All rights reserced.</small>
+	</footer>
+</body>
+</html>
